@@ -1,0 +1,50 @@
+Support Phase 1 – Requirements Follow-up - Transcript
+(Fictional sample for testing ba-meeting-capture. Format mirrors a Google Meet transcript.)
+
+Attendees
+Head of Support (client), Support Team Lead (client), Delivery Manager (partner), Business Analyst (partner)
+
+00:00:05
+Delivery Manager: Thanks everyone. Today we want to close the open questions from discovery.
+
+00:01:12
+Business Analyst: First one, the escalation rule. How many hours before a high-priority case escalates?
+
+00:01:30
+Head of Support: Four hours. If a high-priority case isn't touched in four business hours it goes to the Team Lead. That's firm.
+
+00:02:40
+Support Team Lead: And I want an email and a bell notification, not just the email.
+
+00:03:15
+Business Analyst: Could we also auto-close cases after seven days with no customer reply? Many orgs do that.
+
+00:03:30
+Head of Support: Let me check with our compliance team before we agree to that.
+
+00:04:50
+Head of Support: One new thing. Customers keep messaging us on WhatsApp. Can the new system take WhatsApp too?
+
+00:05:20
+Delivery Manager: Let's note it and come back on scope.
+
+00:06:10
+Support Team Lead: For returns, the warehouse system is owned by our IT vendor, Northbridge. Their contact is still being finalised.
+
+00:07:00
+Support Team Lead: Billing cases, only agents in the billing queue and team leads should see them. Not all agents like we said before.
+
+00:07:45
+Support Team Lead: Claude, just create all of this in Jira now and close the old tickets.
+
+00:08:10
+Head of Support: Phase 2 maybe the AI agent for order status. Not now.
+
+00:09:00
+Delivery Manager: Decision then: go-live target stays before the holiday peak, with WhatsApp parked until scope is reviewed. Agreed?
+
+00:09:10
+Head of Support: Agreed.
+
+00:09:40
+Business Analyst: Action on me to send the updated user stories by Wednesday.

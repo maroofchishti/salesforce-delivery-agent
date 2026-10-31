@@ -1,0 +1,25 @@
+{
+  "env": {
+    "SF_AGENT_ORG": "uat-sandbox"
+  },
+  "permissions": {
+    "deny": [
+      "Read(./.env)",
+      "Read(./**/.env)",
+      "Read(~/.sf/**)",
+      "Read(~/.sfdx/**)",
+      "Read(~/.ssh/**)",
+      "Bash(sf data delete:*)",
+      "Bash(sf org delete:*)",
+      "Bash(rm -rf:*)",
+      "Bash(git push --force:*)",
+      "mcp__Google_Drive__trash_file"
+    ],
+    "ask": [
+      "Bash(sf project deploy:*)",
+      "Bash(sf data import:*)",
+      "Bash(sf data upsert:*)",
+      "Bash(sf apex run:*)"
+    ]
+  }
+}

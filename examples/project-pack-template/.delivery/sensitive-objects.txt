@@ -1,0 +1,9 @@
+# Objects holding HR, payroll, finance, health or personal data.
+# The guard asks before any query that reads their records (COUNT() is fine).
+# One API name per line; comments after # are ignored.
+
+# Examples — replace with your org's objects
+Contact
+Compensation__c
+Payroll__c
+Invoice__c

@@ -1,0 +1,10 @@
+{
+  "name": "sf-delivery-copilot",
+  "version": "0.4.0",
+  "description": "Business Analyst, Project Manager and Delivery Manager skills for Salesforce delivery, with human-approval guardrails on every external write and an independent reviewer agent.",
+  "author": {
+    "name": "Maroof Ahmad Chishti"
+  },
+  "license": "MIT",
+  "keywords": ["salesforce", "business-analysis", "project-management", "delivery", "jira", "uat"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "maroof-delivery",
+  "owner": {
+    "name": "Maroof Ahmad Chishti"
+  },
+  "plugins": [
+    {
+      "name": "sf-delivery-copilot",
+      "source": "./plugins/sf-delivery-copilot",
+      "description": "Safe, reviewed BA / Project Manager / Delivery Manager agent for Salesforce implementations"
+    }
+  ]
+}
